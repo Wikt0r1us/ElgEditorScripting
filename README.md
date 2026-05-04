@@ -1,7 +1,8 @@
 # ElgEditorScripting
 
 --ORIGINAL RELEASE--
-[ElgSoft/ElgEditorScripting]https://github.com/ElgSoft/ElgEditorScripting
+
+[ElgSoft/ElgEditorScripting](https://github.com/ElgSoft/ElgEditorScripting)
 
 
 ElgEditorScripting is an Unreal Engine 5.0 editor only plugin created to extend the possibilities of Editor Utility Widgets. 
