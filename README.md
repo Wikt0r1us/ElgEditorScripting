@@ -1,6 +1,6 @@
 # ElgEditorScripting
 
-***ORIGINAL RELEASE****
+--ORIGINAL RELEASE--
 [ElgSoft/ElgEditorScripting]https://github.com/ElgSoft/ElgEditorScripting
 
 
